@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecognitionApp</string>
+    <string name="name">Hello Aditya</string>
+    <string name="firsttext">First</string>
+    <string name="secondbutton">Second</string>
+    <string name="thirdButton">Third</string>
+    <string name="userName">Your name</string>
+    <string name="askingName">Hey What is your name</string>
+
+</resources>
